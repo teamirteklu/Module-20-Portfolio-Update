@@ -1,0 +1,13 @@
+.self-image {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: 5px;
+    width: 300px;
+    height: 300px;
+    display: inline-flex;
+    background-image: url("../images/self-image.jpg");
+    background-repeat: no-repeat;
+    background-blend-mode: soft-light;
+    background-size: 100%;
+    }
