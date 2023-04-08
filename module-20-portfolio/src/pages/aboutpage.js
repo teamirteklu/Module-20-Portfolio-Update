@@ -1,5 +1,6 @@
 import React from 'react';
-import '../../styles/self-image.css';
+import '../styles/app.css';
+import '../styles/self-image.css';
 
 export default function About() {
   return (

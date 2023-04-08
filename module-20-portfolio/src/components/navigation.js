@@ -4,8 +4,7 @@ import '../styles/navigation.css';
 
 function navigation ({currentPage, handlePageChange}) {
     return (
-        <ul className='nav nav-tabs'>
-            <h1>Portfolio</h1>
+        <ul className='nav nav-tabs flex-row'>
             <li className='nav-item'>
                 <a href="#aboutpage"
                    onClick = {() => handlePageChange('aboutpage')}
