@@ -3,7 +3,7 @@ import '../styles/app.css';
 
 export default function Contact() {
   return (
-    <div>
+    <div className='page-wrap'>
       <h1>Contact Page</h1>
 
       <div className='container'>
